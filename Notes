@@ -1,0 +1,104 @@
+https://www.coursera.org/specializations/jhu-data-science
+
+Data Science Specialization
+Launch Your Career in Data Science.
+A nine-course introduction to data science, developed and taught by leading professors.
+
+About This Specialization
+Ask the right questions, manipulate data sets, and create visualizations to communicate results.
+This Specialization covers the concepts and tools you'll need throughout the entire data science pipeline, from asking the right kinds of questions to making inferences and publishing results. In the final Capstone Project, you’ll apply the skills learned by building a data product using real-world data. At completion, students will have a portfolio demonstrating their mastery of the material. 
+
+
+
+Course 01: The Data Scientist’s Toolbox
+Course 02: R Programming
+Course 03: Getting and Cleaning Data
+Course 04: Exploratory Data Analysis
+Course 05: Reproducible Research
+Course 06: Statistical Inference
+Course 07: Regression Models
+Course 08: Practical Machine Learning
+Course 09: Developing Data Products
+Course 10: Data Science Capstone
+
+
+
+#### Course 01: The Data Scientist’s Toolbox ####
+
+Week 01:
+
+Week 02: Installing the Toolbox
+
+Week 03: Conceptual Issues
+
+Week 04: Course Project Submission & Evaluation
+
+
+
+#### Course 02: R Programming ####
+
+Week 01: Background, Getting Started, and Nuts & Bolts
+
+
+Week 02: Programming with R
+  Programming Assignement 1
+
+
+Week 03: Loop Functions and Debugging
+  Programming Assignment 2
+  
+    Write the following functions:
+      makeCacheMatrix:
+        This function creates a special "matrix" object that can cache its inverse.
+      cacheSolve:
+        This function computes the inverse of the special "matrix" returned by makeCacheMatrix
+        above. If the inverse has already been calculated (and the matrix has not changed), then
+        the cachesolve should retrieve the inverse from the cache.
+    
+    In order to complete this assignment, you must do the following:
+      Fork the GitHub repository containing the stub R files at
+        https://github.com/rdpeng/ProgrammingAssignment2 to create a copy under your own account.
+      Clone your forked GitHub repository to your computer so that you can edit the files locally
+        on your own machine.
+      Edit the R file contained in the git repository and place your solution in that file (please
+        do not rename the file).
+      Commit your completed R file into YOUR git repository and push your git branch to the GitHub
+        repository under your account.
+      Submit to Coursera the URL to your GitHub repository that contains the completed R code for the assignment.
+    
+    In addition to submitting the URL for your GitHub repository, you will need to submit the 40
+      character SHA-1 hash (as string of numbers from 0-9 and letters from a-f) that identifies the
+      repository commit that contains the version of the files you want to submit. You can do this
+      in GitHub by doing the following
+      Going to your GitHub repository web page for this assignment
+      Click on the “?? commits” link where ?? is the number of commits you have in the repository.
+        For example, if you made a total of 10 commits to this repository, the link should
+          say “10 commits”.
+      You will see a list of commits that you have made to this repository. The most recent commit
+        is at the very top. If this represents the version of the files you want to submit, then
+        just click the “copy to clipboard” button on the right hand side that should appear when
+        you hover over the SHA-1 hash. Paste this SHA-1 hash into the course web site when you
+        submit your assignment. If you don't want to use the most recent commit, then go down and
+        find the commit you want and copy the SHA-1 hash.
+
+
+Week 04: Simulation & Profiling
+
+
+
+#### Course 03: Getting and Cleaning Data ####
+
+#### Course 04: Exploratory Data Analysis ####
+
+#### Course 05: Reproducible Research ####
+
+#### Course 06: Statistical Inference ####
+
+#### Course 07: Regression Models ####
+
+#### Course 08: Practical Machine Learning ####
+
+#### Course 09: Developing Data Products ####
+
+#### Course 10: Data Science Capstone ####
+
